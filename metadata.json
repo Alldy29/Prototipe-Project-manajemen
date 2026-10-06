@@ -1,0 +1,6 @@
+{
+  "name": "ForgeFlow",
+  "description": "Platform project management komprehensif untuk software house dan digital agency yang menggabungkan issue tracking, sprint, resource, time tracking, budget, invoicing, dan client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
